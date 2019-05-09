@@ -15,7 +15,7 @@
 │   ├── comm_1234.png
 │   ├── comm_1234_behind_dialog.png
 │   └── top_header.png
-├── composite-dialog.sh
+├── composite_dialog.sh
 ├── composite.sh
 ├── screen_cap.s
 └── screen_cap_specify.sh
