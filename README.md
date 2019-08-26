@@ -17,7 +17,7 @@
 │   └── top_header.png
 ├── composite_dialog.sh
 ├── composite.sh
-├── screen_cap.s
+├── screen_cap.sh
 └── screen_cap_specify.sh
 ```
 
